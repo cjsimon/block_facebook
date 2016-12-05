@@ -13,6 +13,8 @@
 127.0.0.1   apps.facebook.com
 127.0.0.1   touch.facebook.com
 127.0.0.1   www.touch.facebook.com
+127.0.0.1   messenger.com
+127.0.0.1   www.messenger.com
 ::1         facebook.com
 ::1         www.facebook.com
 ::1         login.facebook.com
@@ -29,3 +31,5 @@
 ::1         edge-star6-shv-02-ams2.facebook.com
 ::1         touch.facebook.com
 ::1         www.touch.facebook.com
+::1         messenger.com
+::1         www.messenger.com
